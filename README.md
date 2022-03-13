@@ -12,10 +12,10 @@ A Software Engineer specializing in JavaScript technologies. Professional experi
 
 
 ## &#x1f4c8; My GitHub Stats
-<!--
+
 [![Top Langs](https://github.com/abubakarwaqas33/abubakarwaqas33/blob/main/icons/mystats.svg)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 **abubakarwaqas33/abubakarwaqas33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
