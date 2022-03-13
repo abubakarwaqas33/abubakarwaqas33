@@ -2,10 +2,8 @@
 
 A Software Engineer specializing in JavaScript technologies. Professional experience with the technologies listed in the **toolbox** below.
 
-
----
-
 🧰 Toolbox
+---
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="ReactJS" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS" width="50" height="50"/> 
