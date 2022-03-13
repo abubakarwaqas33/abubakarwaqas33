@@ -11,10 +11,24 @@ A Software Engineer specializing in JavaScript technologies. Professional experi
 ---
 📫 Projects
 
-I have created varied projects such as E-Commerce apps, companies' portfolio websites, and point of sales using React and Node JS. Furthermore,
-I love to write clean and efficient code which a human can understand,  not just a computer 
+I developed varied projects such as E-Commerce apps, companies' portfolio websites, and point of sales using React and Node JS. Furthermore, I love to write clean and efficient code which a human can understand,  not just a computer. Moreover,  I built projects in the blockchain in which I developed contracts in solidity for NFT minting and crowdfunding.  
 
 ---
+🔭Current Project
+
+Currently, I am working on blockchain projects, and I am doing integration of Metamask and Coinbase wallet in React JS web apps. 
+Initially, I made contracts with other features in Solidity language and deployed them in the Ethereum network.
+
+---
+🌱 Learning 
+
+I always hunger to learn and improve my skills due to reason every day try to improve myself on React, Node, and Blockchain as 
+I believe nothing can be perfect so I always try to push myself up.
+
+---
+💬 Email
+
+abubakarch.7033@gmail.com
 
 
 ## &#x1f4c8; My GitHub Stats
