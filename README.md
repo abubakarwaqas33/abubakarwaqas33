@@ -10,6 +10,14 @@ A Software Engineer specializing in JavaScript technologies. Professional experi
 
 ---
 
+---
+📫 Projects
+
+I have created varied projects such as E-Commerce apps, companies' portfolio websites, and point of sales using React and Node JS. Furthermore,
+I love to write clean and efficient code which a human can understand,  not just a computer 
+
+---
+
 
 ## &#x1f4c8; My GitHub Stats
 
