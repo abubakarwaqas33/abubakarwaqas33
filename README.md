@@ -23,10 +23,7 @@ Initially, I made contracts with other features in Solidity language and deploye
 I always hunger to learn and improve my skills due to reason every day try to improve myself on React, Node, and Blockchain as 
 I believe nothing can be perfect so I always try to push myself up.
 
----
-💬 Email
 
-abubakarch.7033@gmail.com
 
 
 ## &#x1f4c8; My GitHub Stats
