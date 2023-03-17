@@ -86,14 +86,14 @@
           fill="#f1e05a"
           rx="5" ry="5" x="0" y="0" 
           data-testid="lang-progress"
-          width="80.45%"
+          width="95.45%"
       >
       </rect>
     </svg>
   
   </g><g transform="translate(0, 40)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">React JS</text>
-    <text x="215" y="34" class="lang-name">74.5%</text>
+    <text x="215" y="34" class="lang-name">90.5%</text>
     
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
@@ -109,7 +109,7 @@
   
   </g><g transform="translate(0, 80)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">Node JS</text>
-    <text x="215" y="34" class="lang-name">60%</text>
+    <text x="215" y="34" class="lang-name">85%</text>
     
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
@@ -125,7 +125,7 @@
   
   </g><g transform="translate(0, 120)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">TypeScript</text>
-    <text x="215" y="34" class="lang-name">50%</text>
+    <text x="215" y="34" class="lang-name">75%</text>
     
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
@@ -134,7 +134,7 @@
           fill="#41b883"
           rx="5" ry="5" x="0" y="0" 
           data-testid="lang-progress"
-          width="50%"
+          width="78%"
       >
       </rect>
     </svg>
@@ -150,7 +150,7 @@
           fill="#2b7489"
           rx="5" ry="5" x="0" y="0" 
           data-testid="lang-progress"
-          width="2%"
+          width="20%"
       >
       </rect>
     </svg>
